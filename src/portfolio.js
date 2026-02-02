@@ -193,7 +193,11 @@ const bigProjects = {
       projectDesc: "A web-based management system built with Python Flask to streamline employee record-keeping with full CRUD operations and SQLite database.",
       footerLink: [
         {
-          name: "Visit GitHub",
+          name: "Visit Live Site",
+          url: "https://empmgnt.onrender.com/"
+        },
+        {
+          name: "View GitHub",
           url: "https://github.com/siddharthsahu1211-ops"
         }
       ]

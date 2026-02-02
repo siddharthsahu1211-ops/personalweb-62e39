@@ -28,6 +28,7 @@ Personal portfolio website showcasing my skills, projects, and experience as a F
 - **Tech Stack**: Python, Flask, HTML, CSS, SQLite
 - **Features**: Full CRUD operations, responsive UI, secure data management
 - **Description**: Web-based system for streamlined employee record-keeping
+- **Live Demo**: [https://empmgnt.onrender.com/](https://empmgnt.onrender.com/)
 
 ## 🎯 Skills Proficiency
 - **Programming (C, C++, Java, Python)**: 85%
