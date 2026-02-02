@@ -205,6 +205,7 @@ const bigProjects = {
 // Achievement Section
 // Include certificates, talks etc
 
+/*
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
@@ -260,8 +261,9 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
+*/
 
 // Blogs Section
 
@@ -289,6 +291,7 @@ const blogSection = {
 
 // Talks Sections
 
+/*
 const talkSection = {
   title: "TALKS",
   subtitle: emoji(
@@ -303,11 +306,13 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
+*/
 
 // Podcast Section
 
+/*
 const podcastSection = {
   title: emoji("Podcast 🎙️"),
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
@@ -316,8 +321,9 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
+*/
 
 // Resume Section
 const resumeSection = {
@@ -356,10 +362,10 @@ export {
   workExperiences,
   openSource,
   bigProjects,
-  achievementSection,
+  // achievementSection,
   blogSection,
-  talkSection,
-  podcastSection,
+  // talkSection,
+  // podcastSection,
   contactInfo,
   twitterDetails,
   isHireable,
